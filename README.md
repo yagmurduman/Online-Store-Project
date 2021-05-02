@@ -1,5 +1,5 @@
 # Online Store Project
-Term project for CS308 course offered in Spring Term of 2020 in Sabancı University.
+Term project for CS308 Software Engineering course offered in Spring Term of 2020 in Sabancı University.
 
 # Tools and Languages Used
 Vue Cli was used for frontend, SpringBoot and Java were used for backend.
