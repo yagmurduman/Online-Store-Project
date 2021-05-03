@@ -1,11 +1,11 @@
 # Online Store Project
 Term project for CS308 Software Engineering course offered in Spring Term of 2020 in Sabancı University.
 
-# Tools and Languages Used
+## Tools and Languages Used
 Vue Cli was used for frontend, SpringBoot and Java were used for backend.
 Frontend developments were done on VSCode and backend was developed on Intellij, database management was done using phpmyadmin.
 
-# Description
+## Description
 There are 4 user types in this project: Admin, Product Manager, Sales Manager and Customer.
 Customers can browse, search and filter the items and make a purchase. Once the purchase is done, they will receive an e-mail containing their invoice. Also they are able to rate and review the products.
 
